@@ -1,0 +1,14 @@
+.brand-logo {
+    font-family: 'Pacifico', cursive;
+    padding-left: 10px!important;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.row {
+    margin: 0!important;
+}
+.page-footer {
+    padding-bottom: 10px;
+}
+
